@@ -34,4 +34,4 @@ class CreateAppointmentService {
   }
 }
 
-export default createAppointmentService;
+export default CreateAppointmentService;
